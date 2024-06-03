@@ -1,0 +1,9 @@
+{
+  "hideLayersAfterWidgetClosed": true,
+  "labelTasks": "Tasks",
+  "labelResults": "Results",
+  "showFilterLabel": true,
+  "criteiraLabel": "Query criteria",
+  "spatialFilterLabel": "Spatial filters",
+  "queries": []
+}
